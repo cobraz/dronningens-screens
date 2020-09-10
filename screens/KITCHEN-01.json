@@ -1,0 +1,22 @@
+{
+  "schedule": {
+    "Value": [
+      {
+        "items": [
+          {
+            "autoReload": 0,
+            "cachePolicy": "forever",
+            "content": "https://bjerk.io",
+            "repetition": "-",
+            "zone": "fs",
+            "zoneHeight": "30%",
+            "zoneWidth": "30%",
+            "zoneXOffset": "0",
+            "zoneYOffset": "0"
+          }
+        ],
+        "name": "KITCHEN-01"
+      }
+    ]
+  }
+}

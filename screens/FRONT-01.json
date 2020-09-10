@@ -1,0 +1,22 @@
+{
+  "schedule": {
+    "Value": [
+      {
+        "items": [
+          {
+            "autoReload": 0,
+            "cachePolicy": "forever",
+            "content": "http://rtd.opm.jbv.no:8080/web_client/std?station=OSL",
+            "repetition": "-",
+            "zone": "fs",
+            "zoneHeight": "30%",
+            "zoneWidth": "30%",
+            "zoneXOffset": "0",
+            "zoneYOffset": "0"
+          }
+        ],
+        "name": "FRONT-01"
+      }
+    ]
+  }
+}

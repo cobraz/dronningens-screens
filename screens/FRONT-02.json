@@ -1,0 +1,22 @@
+{
+  "schedule": {
+    "Value": [
+      {
+        "items": [
+          {
+            "autoReload": 0,
+            "cachePolicy": "forever",
+            "content": "https://mon.ruter.no/departures/59.90855845147383-10.744709787050269/N4Igrgzgpgwg9gGzAWwHYBkCGBPOYAuIAXPgE5hQA0IARnJqQCYTEDaoE+cADgAoKYAxlACSzNiAByAZQBKRaVz4DhRAKwBOAOwAWABwgAutUZQB2KI0UN8AFQCWyKMQBs1ABb3GpjPdRQWImAAX2pUFBooUgB5ADMAEShuGzBSAOI9anx7fARnIhAAaQA3TEZSTHxUqFQQE3sITBo8xlsK1AhuOFJ8AFk4U0DWYxAappbiMgoPLyg2oQBreCQ0YljMBGhQjiV+IVFxIlYpOQVdlSh1DRcABgBGIxMzHEtrHocnYjubme8a9D86SCoRA4WQkRiCSSKTSgUyIGyuXyIHipDgqFQfgA5jUIAACLGVZz1RrNSzzDpdHr9QZsEZjMmMSbkKggTymeaCJaIFC1IjrTZQYIjYpRCD2dHEABMwSAA",
+            "repetition": "-",
+            "zone": "fs",
+            "zoneHeight": "30%",
+            "zoneWidth": "30%",
+            "zoneXOffset": "0",
+            "zoneYOffset": "0"
+          }
+        ],
+        "name": "FRONT-02"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schedule": {
+    "Value": [
+      {
+        "items": [
+          {
+            "autoReload": 0,
+            "cachePolicy": "forever",
+            "content": "https://trends.google.com/trends/hottrends/visualize?pn=p51",
+            "repetition": "-",
+            "zone": "fs",
+            "zoneHeight": "30%",
+            "zoneWidth": "30%",
+            "zoneXOffset": "0",
+            "zoneYOffset": "0"
+          }
+        ],
+        "name": "SHARED-01"
+      }
+    ]
+  }
+}
