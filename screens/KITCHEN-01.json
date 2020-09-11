@@ -6,7 +6,7 @@
           {
             "autoReload": 0,
             "cachePolicy": "forever",
-            "content": "https://bjerk.io",
+            "content": "https://trends.google.com/trends/hottrends/visualize?pn=p51",
             "repetition": "-",
             "zone": "fs",
             "zoneHeight": "30%",
