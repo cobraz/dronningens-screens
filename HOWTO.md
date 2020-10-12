@@ -11,7 +11,7 @@ Currently, the screens depend on a mechanical turk in order to actually change t
 
 This is how the file looks like before you edit:
 
-```
+```JSON
 {
   "schedule": {
     "Value": [
@@ -39,7 +39,7 @@ This is how the file looks like before you edit:
 This is after:
 
 
-```
+```JSON
 {
   "schedule": {
     "Value": [
